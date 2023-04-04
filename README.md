@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Harry Potter Geeks, a website for Potterheads and Harry Potter Geeks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
