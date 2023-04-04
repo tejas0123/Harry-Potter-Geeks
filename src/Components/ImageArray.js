@@ -12,7 +12,7 @@ function ImageArray() {
             <a href="#">Read more</a>
           </div>
         </div>
-        <div class="card" style={{"width": "20rem","backgroundColor":"#ecb939", "color":"black"}}>
+        <div class="card" style={{"width": "22rem","backgroundColor":"#ecb939", "color":"black"}}>
           <img class="card-img-top" src={require('../images/hufflepuff.png')} alt="Card image cap"/>
           <div class="card-body">
             <h5 class="card-title">Hufflepuff</h5>
@@ -22,7 +22,7 @@ There is an idea that Hufflepuffs are the least clever of all Hogwarts students 
             <a href="#">Read more</a>
           </div>
         </div>
-        <div class="card" style={{"width": "20rem", "backgroundColor":"#222f5b", "color":"#CD7F32"}}>
+        <div class="card" style={{"width": "22rem", "backgroundColor":"#222f5b", "color":"#CD7F32"}}>
           <img class="card-img-top" src={require('../images/ravenclaw.png')} alt="Card image cap"/>
           <div class="card-body">
             <h5 class="card-title">Ravenclaw</h5>
@@ -32,7 +32,7 @@ The Sorting Hat would only put you in this house if you demonstrated excellent w
             <a href="#">Read more</a>
           </div>
         </div>
-        <div class="card" style={{"width": "20rem", "backgroundColor":"#1a472a", "color":"silver"}}>
+        <div class="card" style={{"width": "22rem", "backgroundColor":"#1a472a", "color":"silver"}}>
           <img class="card-img-top" src={require('../images/slytherin.png')} alt="Card image cap"/>
           <div class="card-body">
             <h5 class="card-title">Slytherin</h5>
