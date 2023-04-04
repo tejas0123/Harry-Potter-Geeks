@@ -1,24 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import './Components/Navbar'
+import Navbar from './Components/Navbar';
+import ImageArray from './Components/ImageArray';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+        <Navbar/>
+        <h2 style={{"margin-top":"50px","text-align":'center', "fontSize":"35px"}}>Know The Houses!</h2>
+        <ImageArray></ImageArray>
+    </>
+    
   );
 }
 
