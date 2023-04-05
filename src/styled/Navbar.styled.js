@@ -1,13 +1,13 @@
 import styled from 'styled-components'
 
 export const StyledNavbar = styled.nav`
-    background-color:#121212;
     color:gold;
     display:flex;
     align-items:center;
     justify-content:center;
-    height:120px;
+    height:130px;
     background-color:black;
+    box-shadow: 0px 8px 8px -6px rgba(0,0,0,.5);
     h1{
         color:gold;
         font-family: 'Berkshire Swash', cursive;
@@ -15,14 +15,15 @@ export const StyledNavbar = styled.nav`
         text-transform-lowercase;
     }
     a{
-        color:crimson;
+        color:;
         text-decoration:none;
         margin:0 1rem;
         font-size:17px;   
     }
     a:hover{
-        color:darkred;
+        color:skyblue;
         transition:0.3s;
     }
+    
 
 `

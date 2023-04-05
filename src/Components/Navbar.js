@@ -12,8 +12,8 @@ function Navbar() {
         <a href=''>Quiz</a>
         <a href=''>Merchandise</a>
         <a href=''>Characters</a>
+        <button type="button" class="btn btn-primary">Sign In</button>
       </StyledNavbar>
-      
     </div>
   )
 }
